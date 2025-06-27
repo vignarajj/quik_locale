@@ -2,8 +2,8 @@ name: quik_locale
 description: Manual, typed, effortless Flutter localization plugin. Define translations as Dart constants with full IDE support and type safety.
 version: 1.0.0
 homepage: https://vignaraj.dev
-repository: https://github.com/vignaraj/quik_locale
-issue_tracker: https://github.com/vignaraj/quik_locale/issues
+repository: https://github.com/vignarajj/quik_locale
+issue_tracker: https://github.com/vignarajj/quik_locale/issues
 
 environment:
   sdk: ^3.8.1

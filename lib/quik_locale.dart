@@ -59,7 +59,7 @@
 /// QuikLocale.setLocale('fr');
 /// ```
 ///
-library quik_locale;
+library;
 
 export 'src/quik_locale_base.dart';
 export 'src/quik_locale_string.dart';
