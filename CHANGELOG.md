@@ -1,8 +1,9 @@
 # Changelog
 
-## [1.0.0] - 2025-06-27
+## [1.0.1]
+ - Update the example and documentation.
 
-### Added
+## [1.0.0]
 - Initial release of QuikLocale Flutter localization plugin
 - Manual translation key definition using `QuikLocaleString` class
 - Type-safe translation with full IDE support and autocomplete

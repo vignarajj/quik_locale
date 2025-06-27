@@ -260,3 +260,19 @@ Text(AppLocale.greeting.tr(params: {
 ### Custom Locale Selection Logic
 
 You can implement custom locale selection logic by extending the `LocaleConfig` class and overriding the locale resolution method.
+
+## License
+This project is licensed under the MIT License. See LICENSE for details.
+
+## Additional Information
+- For more details on the API, check out the [API Documentation](doc/api/index.html).
+- If you find any issues or have a feature request, please file them on the [GitHub repository](https://github.com/vignarajj/quik_locale).
+
+
+## Platform Support
+This plugin supports the following platforms:
+
+- **Android**
+- **iOS**
+- **Web**
+- **Desktop** (Windows, macOS, Linux)
