@@ -1,0 +1,35 @@
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
+
+# Avoid committing pubspec.lock for library packages; see
+# https://dart.dev/guides/libraries/private-files#pubspeclock.
+pubspec.lock
+
+# IDE and editor specific files
+.cursor/
+.idea/
+*.iml
+
+# Build and generated files
+build/
+example/build/
+example/android
+example/ios
+example/web
+example/test
+example/lib/generated_plugin_registrant.dart
+example/pubspec.lock
+example/.dart_tool/
+example/.packages
+example/.flutter-plugins
+example/README.md
+example/analysis_options.yaml
+ios/Flutter/ephemeral/
+android/app/build/
+android/build/
+web/icons/
+
+# macOS specific files
+.DS_Store
+*.g.dart
